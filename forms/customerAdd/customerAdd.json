@@ -14,27 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerAdd",
         "Elements",
-        "lblMessage.json"
+        "btnSubmit.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerAdd",
         "Elements",
-        "Select1.json"
+        "inptName.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerAdd",
         "Elements",
-        "txtaCustomerNames.json"
+        "inptAddress.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptState.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptZipcode.json"
       ]
     }
   ],
@@ -44,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerSelect",
+  "id": "customerAdd",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
