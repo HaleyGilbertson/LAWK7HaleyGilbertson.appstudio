@@ -1,4 +1,4 @@
-/*
+
 btnDelete.onclick = function() {
     let nameDelete = inptCustomerDelete.value
     let found = false
@@ -23,4 +23,3 @@ btnDelete.onclick = function() {
     }
 }
 
-*/
