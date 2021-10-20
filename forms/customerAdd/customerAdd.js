@@ -1,4 +1,4 @@
-/*
+
 btnSubmit.onclick = function() {
     name = inptName.value
     address = inptAddress.value
@@ -7,4 +7,4 @@ btnSubmit.onclick = function() {
     zipcode = inptZipcode.value
     query = "INSERT INTO customer (name,street,city,state,zipcode) VALUES ('" + name + "', '" + address + "', '" + city + "', '" + state + "', '" + zip + "')"
     alert(query)
-    */
+  
