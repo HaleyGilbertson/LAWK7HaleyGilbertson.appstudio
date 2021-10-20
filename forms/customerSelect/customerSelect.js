@@ -2,6 +2,7 @@ let query = ' '
 let req = {}
 netID = 'hag79621'
 let pw = 'Bug7152!'
+
 let results = []
 
 
